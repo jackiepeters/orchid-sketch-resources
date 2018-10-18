@@ -57,6 +57,14 @@
     {
       "class": "rectangle",
       "id": "88D07F5C-CE20-4C98-83B6-EAFE9D07340F"
+    },
+    {
+      "class": "star",
+      "id": "C9D03CA2-3C1A-4561-9B8A-44CBC9A75B46"
+    },
+    {
+      "class": "text",
+      "id": "4D38A02F-1B83-471E-97DE-2A8098911215"
     }
   ],
   "name": "Android",
