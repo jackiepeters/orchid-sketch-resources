@@ -49,6 +49,14 @@
     {
       "class": "text",
       "id": "2C7800C1-27AA-4F08-B3F1-05914D874957"
+    },
+    {
+      "class": "text",
+      "id": "8220D8B8-3E82-497A-9D5E-168B5C61AEC9"
+    },
+    {
+      "class": "rectangle",
+      "id": "88D07F5C-CE20-4C98-83B6-EAFE9D07340F"
     }
   ],
   "name": "Android",
